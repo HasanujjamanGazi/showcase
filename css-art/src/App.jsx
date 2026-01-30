@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <div id="container" className="h-lvh w-vw bg-[#ede8e2] flex justify-end align-btween">
+      <div id="container" className="h-lvh w-vw bg-[#ede8e2] flex justify-end items-center">
         <h1>Hasanujjaman Gazi</h1>
         <ArtOne />
       </div>
